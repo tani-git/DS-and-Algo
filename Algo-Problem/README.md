@@ -10,6 +10,6 @@ If you want to contribute in `DSA-Problem-Solving` you are most welcome, push to
 
 #### DSA-Problem-Solving
 | Index | Topics        |  Programming-Language |
-|:---:|:-------------:|:-------------:|-------------:|
-| 1 | [DS-Problem](DS-Problem) | C++, Python |
-| 2 | [ALGO-Problem](Algo-Problem) | C++, Python |
+|:---:|:-------------:|-------------:|
+| 1 | [DS-Problem](../DS-Problem) | C++, Python |
+| 2 | [ALGO-Problem](../Algo-Problem) | C++, Python |
