@@ -9,7 +9,6 @@ If you want to contribute in `DSA-Problem-Solving` you are most welcome, push to
 ##### Platform Acronym -- || HR: HackerRank || || HE: HackerEarth || || CF: CodeForce || || IB: InterviewBit ||
 
 #### DSA-Problem-Solving
-| Index | Topics        |  Programming-Language |
+| Index | Topics       | Platforms           |  Programming-Language |
 |:---:|:-------------:|:-------------:|-------------:|
-| 1 | [DS-Problem](DS-Problem) | C++, Python |
-| 2 | [ALGO-Problem](Algo-Problem) | C++, Python |
+| 1 | [Problem-Statement](Linked-List) | HE,HR,CF,IB | CPP, PYTHON |
